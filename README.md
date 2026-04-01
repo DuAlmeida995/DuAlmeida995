@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/AQzJx90zHKUAAAAd/disco-elysium-swing.gif" width="600">
+</p>
+
+
 
 [![](https://raw.githubusercontent.com/DuAlmeida995/DuAlmeida995/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DuAlmeida995/DuAlmeida995/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DuAlmeida995/DuAlmeida995/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
