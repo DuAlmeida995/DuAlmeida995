@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/AQzJx90zHKUAAAAd/disco-elysium-swing.gif" width="600">
+  <img src="https://media1.tenor.com/m/AQzJx90zHKUAAAAd/disco-elysium-swing.gif" width="800">
 </p>
 
 
